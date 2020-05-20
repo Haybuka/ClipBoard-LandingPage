@@ -79,9 +79,13 @@ section.mainGrid #screenImage {
 
 }
 
+section.mainGrid #screenImage img {
+    width: 550px;
+}
+
 section.mainGrid aside {
-    grid-column: 3/11;
-    margin-top: 100px;
+    grid-column: 6/13;
+    margin-top: 30px;
 }
 
 Section.DeviceGrid {
